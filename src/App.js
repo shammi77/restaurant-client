@@ -7,10 +7,11 @@ import Navbar from './Pages/Shared/Navbar';
 import Menu from './Pages/Menu/Menu';
 
 import { Routes, Route } from 'react-router-dom';
+import Footer from './Pages/Shared/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div>
      <Navbar></Navbar>
      <Routes>
       <Route path="/" element={<Home />}/>
@@ -18,6 +19,7 @@ function App() {
       <Route path="menu" element={<Menu />}/>
       <Route path="contact" element={<Contact />}/>
      </Routes>
+     <Footer className="footer footer-center p-10 bg-primary text-primary-content"></Footer>
     </div>
   );
 }
