@@ -1,9 +1,12 @@
 import React from 'react';
+import Carosal from './Carosal';
+import Welcome from './Welcome';
 
 const Home = () => {
     return (
         <div>
-            <p>Home</p>
+            <Carosal></Carosal>
+            <Welcome></Welcome>
         </div>
     );
 };

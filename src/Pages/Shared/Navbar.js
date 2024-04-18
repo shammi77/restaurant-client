@@ -20,13 +20,13 @@ const Navbar = () => {
   );
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-base-100 bg-primary">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabindex="0" role="button" className="btn btn-ghost lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
+                className="h-5 w-5 mt-10"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -46,10 +46,10 @@ const Navbar = () => {
               {menuItems}
             </ul>
           </div>
-          <Link className="btn btn-ghost text-xl">Restaurant Name</Link>
+          <Link className="btn btn-primary text-3xl mt-10 ml-20">Restaurant Name</Link>
         </div>
-        <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
+        <div className="mt-10 navbar-center hidden lg:flex bg-secondary">
+          <ul className="menu menu-horizontal px-1 ">
             {menuItems}
           </ul>
         </div>

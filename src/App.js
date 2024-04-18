@@ -13,13 +13,15 @@ function App() {
   return (
     <div>
      <Navbar></Navbar>
+     <div className="mt-10">
      <Routes>
       <Route path="/" element={<Home />}/>
       <Route path="about" element={<About />}/>
       <Route path="menu" element={<Menu />}/>
       <Route path="contact" element={<Contact />}/>
      </Routes>
-     <Footer className="footer footer-center p-10 bg-primary text-primary-content"></Footer>
+     </div>
+     <Footer className="footer  footer-center p-10   bg-primary text-primary-content"></Footer>
     </div>
   );
 }
