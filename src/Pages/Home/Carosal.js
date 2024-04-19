@@ -3,7 +3,7 @@ import React from 'react';
 const Carosal = () => {
     return (
         <div className="m-5 ">
-             <img src="https://images.unsplash.com/photo-1493770348161-369560ae357d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGZvb2R8ZW58MHx8MHx8fDA%3D" class="w-full rounded-lg shadow-2xl" alt=''/>
+             <img src="https://static.wixstatic.com/media/84770f_2f0fbc24c82448d7b19dbfdf38d8b049~mv2_d_4752_3168_s_4_2.jpg/v1/fill/w_1899,h_1205,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/84770f_2f0fbc24c82448d7b19dbfdf38d8b049~mv2_d_4752_3168_s_4_2.jpg" class=" max-w-full rounded-lg shadow-2xl" alt=''  />
     
         </div>
     );
