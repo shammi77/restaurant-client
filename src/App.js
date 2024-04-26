@@ -8,6 +8,7 @@ import Menu from './Pages/Menu/Menu';
 
 import { Routes, Route } from 'react-router-dom';
 import Footer from './Pages/Shared/Footer';
+// import NotFound from './Pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
      </Routes>
      </div>
      <Footer className="footer  footer-center p-10   bg-primary text-primary-content"></Footer>
+     {/* <Route path="*" element= {<NotFound></NotFound>}></Route> */}
     </div>
   );
 }

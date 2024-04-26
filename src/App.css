@@ -1,6 +1,13 @@
+
 .App {
   text-align: center;
+  display: flex;
+  padding: 5rem;
+  justify-content: space-evenly;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+
+
 
 .App-logo {
   height: 40vmin;
