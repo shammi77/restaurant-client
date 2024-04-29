@@ -2,20 +2,21 @@ import React from "react";
 import {
   GoogleMap,
   LoadScript,
-  useJsApiLoader,
   Marker,
-} from "@react-google-maps/api";
+  useJsApiLoader} from "@react-google-maps/api";
 
 const containerStyle = {
   width: "600px",
   height: "600px",
-  margin: '50px'
+  margin: "50px",
 };
 
 const center = {
-  lat: 17.22097003004066,
-  lng: 104.20381007415672,
+  lat: 40.003036296305915, 
+  lng:  3.8016096248128997
 };
+ 
+
 
 function MyComponent() {
   const { isLoaded } = useJsApiLoader({
@@ -41,7 +42,7 @@ function MyComponent() {
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={10}
+        zoom={5}
         onLoad={onLoad}
         onUnmount={onUnmount}
       >

@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_g0rWf5vu5il4jQNXOsYNn22zgs9dvLiBQ&s"
+      }
+    },
   },
 
   daisyui: {
