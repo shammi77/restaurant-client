@@ -1,12 +1,11 @@
-import React from "react";
+import React from 'react';
 
-const Menu = () => {
-  return (
-    <section>
-      <h2 className="text-center text-4xl font-bold">𝓜𝓮𝓷𝓾</h2>
-      <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+const MenuItems = () => {
+    return (
+        
+        <div>
+             <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
         <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
-          {" "}
           ミ★ 𝘌𝘕𝘛𝘙𝘈𝘕𝘛𝘌𝘚 𝘚𝘛𝘈𝘙𝘛𝘌𝘙𝘚 ★彡
         </h2>
         <h1 className="ml-56  font-bold text-white text-xl">
@@ -168,86 +167,9 @@ const Menu = () => {
         <p className="ml-56 italic text-white">
           Lettuce, onion, tomato, olive, cucumber, peppers and lemon.
         </p>
-        <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-    </section>
-  );
+        <br/>      </div>
+        </div>
+    );
 };
 
-export default Menu;
+export default MenuItems;
