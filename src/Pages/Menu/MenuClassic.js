@@ -59,49 +59,49 @@ const MenuClassic = () => {
         </h1>
         <br />
         <h1 className="ml-56  text-white font bold  text-xl">
-          KORMA
+          MANGO
         </h1>
-        <p className="ml-56 italic text-amber-400">Cocinado con nata fresca, coco, pasta de anacardos con un toque de especias, plato dulce. </p>
+        <p className="ml-56 italic text-amber-400">Hecho con mango chutney(sabor a mango), Salsa dulce. </p>
         <h1 className="ml-56  text-white  text-xl">
-          Sweet dish cooked with fresh cream, coconuts, cashew nut sauce and balanced with touch of spices.
+          A sweet dish cooked with mango chutney.
         </h1> <h1 className="ml-56   text-amber-400  text-xl">
           ................................................................................
         </h1>
         <br />
         <h1 className="ml-56  text-white font bold  text-xl">
-          KORMA
+          ROGANJOSH
         </h1>
-        <p className="ml-56 italic text-amber-400">Cocinado con nata fresca, coco, pasta de anacardos con un toque de especias, plato dulce. </p>
+        <p className="ml-56 italic text-amber-400">Cocinado con especias, tomate, cebolla e yogur. Salsa suave. </p>
         <h1 className="ml-56  text-white  text-xl">
-          Sweet dish cooked with fresh cream, coconuts, cashew nut sauce and balanced with touch of spices.
+          Cooked with chopped tomato and onion with added yogurt .
         </h1> <h1 className="ml-56   text-amber-400  text-xl">
           ................................................................................
         </h1>
         <br />
         <h1 className="ml-56  text-white font bold  text-xl">
-          KORMA
+          SAGWALA
         </h1>
-        <p className="ml-56 italic text-amber-400">Cocinado con nata fresca, coco, pasta de anacardos con un toque de especias, plato dulce. </p>
+        <p className="ml-56 italic text-amber-400">Cocinado con espinacas frescas y salsa de tomate. Salsa Suave. </p>
         <h1 className="ml-56  text-white  text-xl">
-          Sweet dish cooked with fresh cream, coconuts, cashew nut sauce and balanced with touch of spices.
+          Cooked with fresh spinach and tomato sauce. Mild dish.
         </h1> <h1 className="ml-56   text-amber-400  text-xl">
           ................................................................................
         </h1>
         <br />
         <h1 className="ml-56  text-white font bold  text-xl">
-          KORMA
+          DHANSAK
         </h1>
-        <p className="ml-56 italic text-amber-400">Cocinado con nata fresca, coco, pasta de anacardos con un toque de especias, plato dulce. </p>
+        <p className="ml-56 italic text-amber-400">Es una salsa hecho con lentejas, agrio de limon, hierbas y especias. Sabor agridulce. </p>
         <h1 className="ml-56  text-white  text-xl">
-          Sweet dish cooked with fresh cream, coconuts, cashew nut sauce and balanced with touch of spices.
+          Prepared with lentils, herbs and spices in a sweet sour sauce.
         </h1> <h1 className="ml-56   text-amber-400  text-xl">
           ................................................................................
         </h1>
         <br />
         <h1 className="ml-56  text-white font bold  text-xl">
-          KORMA
+          CURRY
         </h1>
-        <p className="ml-56 italic text-amber-400">Cocinado con nata fresca, coco, pasta de anacardos con un toque de especias, plato dulce. </p>
+        <p className="ml-56 italic text-amber-400">Combinacion de especias cocinado con hierbas aromaticas. Salsa kigeramente picante. </p>
         <h1 className="ml-56  text-white  text-xl">
           Sweet dish cooked with fresh cream, coconuts, cashew nut sauce and balanced with touch of spices.
         </h1> <h1 className="ml-56   text-amber-400  text-xl">
