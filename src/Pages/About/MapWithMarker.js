@@ -3,17 +3,18 @@ import {
   GoogleMap,
   LoadScript,
   Marker,
+  MarkerF,
   useJsApiLoader} from "@react-google-maps/api";
 
 const containerStyle = {
-  width: "600px",
-  height: "600px",
+  width: "500px",
+  height: "500px",
   margin: "50px",
 };
 
 const center = {
-  lat: 40.003036296305915, 
-  lng:  3.8016096248128997
+  lat: 40.00302399719007, 
+  lng: 3.801641815344289
 };
  
 
@@ -42,11 +43,11 @@ function MyComponent() {
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={5}
+        zoom={28}
         onLoad={onLoad}
         onUnmount={onUnmount}
       >
-        <Marker position={center} />
+        <MarkerF position={center} />
       </GoogleMap>
     </LoadScript>
   );
