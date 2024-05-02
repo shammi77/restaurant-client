@@ -3,12 +3,12 @@ import React from 'react';
 const MenuChef = () => {
     return (
         <div>
-        <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+        <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
    <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
      ミ★ 𝘌𝘚𝘗𝘌𝘊𝘐𝘈𝘓𝘐𝘋𝘈𝘋𝘌𝘚 𝘋𝘌 𝘊𝘏𝘌𝘍 / 𝘊𝘏𝘌𝘍 𝘚𝘗𝘌𝘊𝘐𝘈𝘓𝘐𝘛𝘐𝘌𝘚 ★彡
    </h2>
    <h1 className="ml-56  font-bold text-white text-xl">
-     HONEY TIKKA POLLO / HONEY TIKKA CHICKEN .................................
+     HONEY TIKKA POLLO / HONEY TIKKA CHICKEN ...................................................................................
      12.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -17,7 +17,7 @@ const MenuChef = () => {
    <p className="ml-56 italic text-white">Chicken tikka cooked in honey, pistacho, cashew nut paste and fresh cream, Sweet dish.</p>
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
-     POLO TIKKA ACHARI / CHICKEN TIKKA ACHARI ............... 12.95 €
+     POLO TIKKA ACHARI / CHICKEN TIKKA ACHARI ................................................................................... 12.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
    Cocinado en una salsa "achari pickle", cebolla y ajo. Salsa picante medio.
@@ -27,7 +27,7 @@ const MenuChef = () => {
    </p>
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
-     RAJASTHANI ROYAL ..................................................................
+     RAJASTHANI ROYAL ..................................................................................................................................
      11.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -39,7 +39,7 @@ const MenuChef = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      MAKANI
-     ..................................................................
+     .......................................................................................................................................................
      12.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -51,7 +51,7 @@ const MenuChef = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      POLLO TIKKA NAGA / CHICKEN TIKKA NAGA
-     ..................................................................
+     ........................................................................................
      13.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -65,7 +65,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      POLLO MANTEQUILLA / BUTTER CHICKEN 
-     ..................................................................
+     .............................................................................................
      11.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -78,7 +78,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      POLLO TIKKA PASANDA / CHICKEN TIKKA PASANDA
-     ..................................................................
+     ............................................................................
      12.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -92,7 +92,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      MASALA CURRY
-     ..................................................................
+     ..........................................................................................................................................
      12.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -105,7 +105,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      MASALA BUTTER
-     ..................................................................
+     ........................................................................................................................................
     11.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -119,7 +119,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      MASALA CHICKEN
-     ..................................................................
+     .....................................................................................................................................
      11.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -132,7 +132,7 @@ const MenuChef = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      BENGOL FISH  CURRY
-     ..................................................................
+     ................................................................................................................................
      18.95 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">

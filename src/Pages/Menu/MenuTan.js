@@ -3,7 +3,7 @@ import React from 'react';
 const MenuTan = () => {
     return (
         <div>
-        <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+        <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
    <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
    ミ★ 𝘚𝘌𝘎𝘜𝘕𝘋𝘖𝘚 𝘗𝘓𝘈𝘛𝘖𝘚 𝘛𝘈𝘕𝘋𝘖𝘖𝘙𝘐 (𝘚𝘐𝘕 𝘚𝘈𝘓𝘚𝘈) / <br/>𝘛𝘈𝘕𝘋𝘖𝘖𝘙𝘐 𝘔𝘈𝘐𝘕 𝘔𝘌𝘈𝘓 𝘋𝘐𝘚𝘏𝘌𝘚 ★彡
    </h2>
@@ -14,7 +14,7 @@ const MenuTan = () => {
    <br />
    
    <h1 className="ml-56  font-bold text-white text-xl">
-     MASALA GRIL ............... 17.50 €
+     MASALA GRIL ............................................................................................................... 17.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
      Incluye: pollo tandoori, pollo tikka, sheek kebab, langotinos tandoori.
@@ -36,7 +36,7 @@ const MenuTan = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      POLLO TIKKA / CHICKEN TIKKA
-     ..................................................................
+     ...................................................................................
      12.75 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -48,7 +48,7 @@ const MenuTan = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      POLLO SHASLIK / CHICKEN SHASLIK
-     ..................................................................
+     ............................................................................
      12.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -62,7 +62,7 @@ const MenuTan = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      CORDERO TIKKA / LAMB TIKKA
-     ..................................................................
+     ....................................................................................
      14.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -75,7 +75,7 @@ const MenuTan = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
     SHEEK KEBAB 
-     ..................................................................
+     ....................................................................................................................
      14.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -89,7 +89,7 @@ const MenuTan = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      CORDERO SHASLIK / LAMB SHASLIK
-     ..................................................................
+     ............................................................................
      14.75 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -113,7 +113,7 @@ const MenuTan = () => {
    <br/>
    <h1 className="ml-56  font-bold text-white text-xl">
      LUBINA AL TANDOORI / TANDOORI SEA BASS
-     ..................................................................
+     ............................................................
      16.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">

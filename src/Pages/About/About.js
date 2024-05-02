@@ -30,7 +30,7 @@ const About = () => {
           </h1>
           <div className="divider"></div>
           <p className="text-center">
-            Timetable/ Horario: open everyday/ abierto todos los dias
+            Timetable/ Horario:<br/> open everyday/ abierto todos los dias
             <br/>13:00-15:30/ 18:00-23:30 
           </p>
         </div>

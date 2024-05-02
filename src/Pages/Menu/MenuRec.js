@@ -3,7 +3,7 @@ import React from "react";
 const MenuRec = () => {
   return (
     <section>
-      <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+      <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
         <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
           ミ★ 𝘚𝘜𝘎𝘌𝘙𝘌𝘕𝘊𝘐𝘈𝘚 𝘋𝘌𝘓 𝘊𝘏𝘌𝘍 / <br /> 𝘊𝘏𝘌𝘍'𝘚 𝘙𝘌𝘊𝘖𝘔𝘔𝘌𝘕𝘋𝘈𝘛𝘐𝘖𝘕𝘚 ★彡
         </h2>
@@ -73,7 +73,7 @@ const MenuRec = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           MANCHURI
-          ..................................................................
+          .....................................................................................................................
           15.90 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -87,7 +87,7 @@ const MenuRec = () => {
         <br />
         <h1 className="ml-56  font-bold text-white text-xl">
           NORTH INDIAN GARLIC CHILI CHICKEN
-          ..................................................................
+          .....................................................................
           14.95 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -102,7 +102,7 @@ const MenuRec = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           REZALA
-          ..................................................................
+          ............................................................................................................................
           15.50 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">

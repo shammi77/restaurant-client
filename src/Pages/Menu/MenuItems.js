@@ -4,12 +4,12 @@ const MenuItems = () => {
     return (
         
         <div>
-             <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+             <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
         <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
           ミ★ 𝘌𝘕𝘛𝘙𝘈𝘕𝘛𝘌𝘚 𝘚𝘛𝘈𝘙𝘛𝘌𝘙𝘚 ★彡
         </h2>
         <h1 className="ml-56  font-bold text-white text-xl">
-          Papadum............................................................................................................................................................
+          Papadum ........................................................................................................................................................
           1.45 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -19,18 +19,18 @@ const MenuItems = () => {
         <br />
         <h1 className="ml-56  font-bold text-white text-xl">
           Samosas de Pollo o Verduras / Chicken or Vegetables
-          Samosas............... 5.00 €
+          Samosas.............................................................. 5.00 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
           Empanadillas, relleno cocinado con especies y fritas en aceite.
         </h1>
         <p className="ml-56 italic text-white">
           Cooked in crispy pastry with herbs and spices
-        </p>{" "}
+        </p>
         <br />
         <h1 className="ml-56  font-bold text-white text-xl">
           Cebolla Bhaji / Onion
-          Bhaji..................................................................
+          Bhaji ..........................................................................................................................
           4.50 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -43,7 +43,7 @@ const MenuItems = () => {
         <br />
         <h1 className="ml-56  font-bold text-white text-xl">
           Verduras Pakora / Vegetable Pakora
-          ..................................................................
+          ............................................................................................................
           4.50 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -55,7 +55,7 @@ const MenuItems = () => {
         <br />
         <h1 className="ml-56  font-bold text-white text-xl">
           Pollo Pakora / Chicken Pakora
-          ..................................................................
+          ......................................................................................................................
           5.00 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -69,7 +69,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Pollo Chat Pakora / Chicken Chat Puree
-          ..................................................................
+          .......................................................................................................
           6.00 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -82,7 +82,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Aloo Chat Puree
-          ..................................................................
+          ...............................................................................................................................................
           5.50 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -96,7 +96,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Gambas puree / Shrimps Puree
-          ..................................................................
+          .......................................................................................................................
           6.85 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -109,7 +109,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Langostino Puree / King Prawns Puree
-          ..................................................................
+          ...........................................................................................................
           7.95 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -123,7 +123,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Mixed Platter Para (2 personas)
-          ..................................................................
+          ........................................................................................................................
           9.90 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -136,7 +136,7 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Mixed Platter Para (4 personas)
-          ..................................................................
+          ........................................................................................................................
           18.00 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">
@@ -151,14 +151,14 @@ const MenuItems = () => {
 
         <h1 className="ml-56  font-bold text-white text-xl">
           Patatas Fritas / Chips 
-          ..................................................................
+          ...........................................................................................................................................
           3.50 €
         </h1>
         <br/>
 
         <h1 className="ml-56  font-bold text-white text-xl">
         Ensalada Mixta / Mixed Salad  
-          ..................................................................
+          .............................................................................................................................
           6.90 €
         </h1>
         <h1 className="ml-56  italic text-amber-400">

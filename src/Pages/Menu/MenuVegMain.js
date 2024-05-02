@@ -3,7 +3,7 @@ import React from 'react';
 const MenuVegMain = () => {
     return (
         <div>
-        <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+        <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
    <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
      ミ★ 𝘚𝘌𝘎𝘜𝘕𝘋𝘖𝘚 𝘗𝘓𝘈𝘛𝘖𝘚 𝘝𝘌𝘎𝘌𝘛𝘈𝘙𝘐𝘈𝘕𝘖𝘚 / <br/>𝘝𝘌𝘎𝘌𝘛𝘈𝘙𝘐𝘈𝘕 𝘔𝘈𝘐𝘕 𝘔𝘌𝘈𝘓𝘚 ★彡
    </h2>
@@ -17,7 +17,7 @@ const MenuVegMain = () => {
    <p className="ml-56 italic text-white">Mix vegetables cooked with spices & aromatic herbs. Slightly hot.</p>
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
-     VEGETABLE KARAHI ............... 9.90 €
+     VEGETABLE KARAHI ...................................................................... 9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
    Verduras variadas cocinadas con especias karahi, cebolla y tomate. Salsa medio picante.
@@ -27,7 +27,7 @@ const MenuVegMain = () => {
    </p>
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
-     VEGETABLE BALTI ..................................................................
+     VEGETABLE BALTI ..........................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -39,7 +39,7 @@ const MenuVegMain = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      BENGAN BHAJI
-     ..................................................................
+     ..............................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -51,7 +51,7 @@ const MenuVegMain = () => {
    <br />
    <h1 className="ml-56  font-bold text-white text-xl">
      MALAI KOFTA
-     ..................................................................
+     ..................................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -65,7 +65,7 @@ const MenuVegMain = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      CHANA SAG
-     ..................................................................
+     .....................................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -78,7 +78,7 @@ const MenuVegMain = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      DALBHUNA
-     ..................................................................
+     ......................................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -92,7 +92,7 @@ const MenuVegMain = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      VEGETABLE KORMA
-     ..................................................................
+     .........................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -119,7 +119,7 @@ const MenuVegMain = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      VEGETABLE DHANSAK
-     ..................................................................
+     .......................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -132,7 +132,7 @@ const MenuVegMain = () => {
 
    <h1 className="ml-56  font-bold text-white text-xl">
      VEGETABLE JALFREZI
-     ..................................................................
+     ...........................................................................
      9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -143,7 +143,7 @@ const MenuVegMain = () => {
    </p>
    <br/>
    <h1 className="ml-56  font-bold text-white text-xl">
-   VEGETABLE MADRAS ....................................................
+   VEGETABLE MADRAS .............................................................................
    9.90 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -154,7 +154,7 @@ const MenuVegMain = () => {
    </p>
    <br/>    
    <h1 className="ml-56  font-bold text-white text-xl">
-   SAG PANEER / PALAK PANNER ....................................................
+   SAG PANEER / PALAK PANNER ............................................................
    10.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">
@@ -165,7 +165,7 @@ const MenuVegMain = () => {
    </p>
    <br/>   
    <h1 className="ml-56  font-bold text-white text-xl">
-   CHANA PANNER ....................................................
+   CHANA PANNER ....................................................................................
      10.50 €
    </h1>
    <h1 className="ml-56  italic text-amber-400">

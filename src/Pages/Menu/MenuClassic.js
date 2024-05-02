@@ -3,12 +3,12 @@ import React from 'react';
 const MenuClassic = () => {
     return (
         <div>
-            <div className="bg-gradient-to-r from-red-500 to-red-800 m-20">
+            <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
         <h2 className=" text-3xl text-center font-bold mt-10 mb-20">
           ミ★ 𝘚𝘌𝘎𝘜𝘕𝘋𝘖𝘚 𝘗𝘓𝘈𝘛𝘖𝘚 𝘊𝘓𝘈𝘚𝘐𝘊𝘖𝘚 (𝘊𝘖𝘕 𝘚𝘈𝘓𝘚𝘈)/<br/> 𝘊𝘓𝘈𝘚𝘚𝘐𝘊 𝘔𝘈𝘐𝘕 𝘔𝘌𝘈𝘓 𝘋𝘐𝘚𝘏𝘌𝘚 ★彡
         </h2>
         <h1 className="ml-56   text-white text-xl">
-          POLLO / CHICKEN .......................................................
+          POLLO / CHICKEN .................................................................................
           10.95 €
         </h1>
         <h1 className="ml-56   text-white text-xl">
@@ -16,23 +16,23 @@ const MenuClassic = () => {
           11.45 €
         </h1>
         <h1 className="ml-56   text-white text-xl">
-          TERNERA / BEEF .......................................................
+          TERNERA / BEEF .....................................................................................
           12.50 €
         </h1>
         <h1 className="ml-56   text-white text-xl">
-          CORDERO / LAMB .......................................................
+          CORDERO / LAMB .................................................................................
           13.50 €
         </h1>
         <h1 className="ml-56   text-white text-xl">
-          GAMBAS / PRAWNS .......................................................
+          GAMBAS / PRAWNS .............................................................................
           12.95 €
         </h1>
         <h1 className="ml-56   text-white text-xl">
-          LANGOSTINOS / KING PRAWNS .......................................................
+          LANGOSTINOS / KING PRAWNS .....................................................
           14.50 €
         </h1>
         <h1 className="ml-56  text-white text-xl">
-          VEGETABLES / VERDURAS.......................................................
+          VEGETABLES / VERDURAS.....................................................................
           9.90 €
         </h1>
 
