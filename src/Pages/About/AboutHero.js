@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const AboutHero = () => {
-    return (
-        <section className="flex bg-gradient-to-r from-cyan-100 to-blue-500 m-10">
+  return (
+    <section className="flex bg-gradient-to-r from-cyan-100 to-blue-500 m-10">
       <div className="flex-1">
         <img
           className="m-5"
@@ -15,16 +15,21 @@ const AboutHero = () => {
           About us
         </h1>
         <p className="text-white font-bold py-5">
-          The visual presentation should not distract your visitors from getting
-          key information, however. Your locations, menu items and opening hours
-          should be easily accessible.
+          About oibo:Welcome to Masala the best indian restaurant and takeaway
+          in Menorca. In Masala we prepared our food with love and care, we use
+          fresh quality product to serve you the best authentic indian food.
+          Customer satisfaction is our priority, this is why we always try to
+          give our best to our customer for having a nice and memorable dining
+          experience in our restaurant.
+          <br />
+          Bienvenido en Masala el mejor restaurante Indio de Menorca. En Masala
+          preparamos nuestra comida con mucho amor y cariño, y siempre
+          utilizamos los productos mas frescos posibles, para que nuestros
+          huéspedes tengan la mejor experiencia posible. 
         </p>
       </div>
-
-      
     </section>
-    
-    );
+  );
 };
 
 export default AboutHero;
