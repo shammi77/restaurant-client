@@ -1,4 +1,3 @@
-
 import './App.css';
 import About from './Pages/About/About';
 
@@ -25,7 +24,7 @@ import MenuRec from './Pages/Menu/MenuRec';
 
 function App() {
   return (
-    <div>
+    <div className=''>
      <Navbar></Navbar>
      <div className="mt-10">
      <Routes>

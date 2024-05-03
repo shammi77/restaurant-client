@@ -4,7 +4,7 @@ const ReviewLink = () => {
   return (
     <section className="bg-primary  h-20 m-5" >
       <div className="flex items-center justify-center ">
-        <div class="mt-5">
+        <div className="mt-5">
           <a
             href="https://www.google.com/search?q=masala+indian+restaurant+menorca&sca_esv=4ee34cd88a9450f7&sca_upv=1&sxsrf=ACQVn08ZfAWdORvShoB6vb2iWX2FXyD-xw%3A1714356562579&source=hp&ei=UgEvZp77IM6vhbIPwP6moAQ&oq=masa&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIEbWFzYSoCCAAyChAjGIAEGCcYigUyBBAjGCcyBBAjGCcyChAAGIAEGEMYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIKEAAYgAQYQxiKBTILEAAYgAQYsQMYgwFIkRFQmwdY8gtwAXgAkAEAmAFwoAGeA6oBAzEuM7gBAcgBAPgBAZgCBaAC1AOoAg_CAgcQIxgnGOoCwgILEC4YgAQYsQMYgwHCAgUQABiABJgDEpIHAzEuNKAHqiU&sclient=mobile-gws-wiz-hp"
             className=" link link-hover"

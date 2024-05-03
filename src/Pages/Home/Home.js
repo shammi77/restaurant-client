@@ -5,6 +5,7 @@ import ReviewLink from './ReviewLink';
 import Open from './Open';
 
 
+
 const Home = () => {
     return (
         <div className='bg-neutral'>
@@ -15,6 +16,7 @@ const Home = () => {
         Review us
       </h1><br/>
             <ReviewLink></ReviewLink>
+            
         </div>
     );
 };
