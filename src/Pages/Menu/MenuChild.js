@@ -2,7 +2,7 @@ import React from "react";
 
 const MenuChild = () => {
   return (
-    <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
+    <div className="bg-gradient-to-r from-gray-500 to-gray-800 mt-10">
       <h2 className=" text-3xl text-white text-center font-bold mt-10 mb-20">
        
         ミ★ 𝘔𝘌𝘕𝘜 𝘗𝘈𝘙𝘈 𝘕𝘐𝘕𝘖𝘚 / 𝘊𝘏𝘐𝘓𝘋𝘙𝘌𝘕𝘚 𝘔𝘌𝘕𝘜 ★彡

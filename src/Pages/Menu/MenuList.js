@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Menu = () => {
   return (
     <div className="bg-neutral">
-      <h2 className="text-center text-4xl font-bold">𝓜𝓮𝓷𝓾</h2>
-      <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-5">
+      <h2 className="text-center text-gray-700 text-4xl font-bold">𝓜𝓮𝓷𝓾</h2>
+      <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  gap-5 ">
         <div className="">
           <div className="card w-64 bg-base-100 shadow-2xl bg-primary m-20 ">
             <div className="card-body">

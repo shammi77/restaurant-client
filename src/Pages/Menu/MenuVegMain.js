@@ -3,7 +3,7 @@ import React from "react";
 const MenuVegMain = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
+      <div className="bg-gradient-to-r from-gray-500 to-gray-800 mt-10">
         <h2 className=" text-3xl text-white text-center font-bold mt-10 mb-20">
           ミ★ 𝘚𝘌𝘎𝘜𝘕𝘋𝘖𝘚 𝘗𝘓𝘈𝘛𝘖𝘚 𝘝𝘌𝘎𝘌𝘛𝘈𝘙𝘐𝘈𝘕𝘖𝘚 / <br />
           𝘝𝘌𝘎𝘌𝘛𝘈𝘙𝘐𝘈𝘕 𝘔𝘈𝘐𝘕 𝘔𝘌𝘈𝘓𝘚 ★彡

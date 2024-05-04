@@ -3,7 +3,7 @@ import React from "react";
 const MenuVeg = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
+      <div className="bg-gradient-to-r from-gray-500 to-gray-800 mt-10">
         <h2 className=" text-3xl text-white text-center font-bold mt-10 mb-20">
           ミ★ VERDURAS /<br /> VEGETABLE SIDE DISHES ★彡
         </h2>

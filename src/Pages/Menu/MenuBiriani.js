@@ -3,7 +3,7 @@ import React from "react";
 const MenuBiriani = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
+      <div className="bg-gradient-to-r from-gray-500 to-gray-800 mt-10">
         <h2 className=" text-3xl text-white text-center font-bold mt-10 mb-20">
           ミ★ BIRYANI DISHES ★彡
         </h2>
@@ -21,7 +21,7 @@ const MenuBiriani = () => {
         <div className="lg:text-center p-5">
           <h1 className="  font-bold text-white text-xl">
             MASALA MIX BIRYANI
-            ............................................................................................................
+            ..........................................................
             16.95 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -34,7 +34,7 @@ const MenuBiriani = () => {
           <br />
           <h1 className="  font-bold text-white text-xl">
             POLLO TIKKA BIRYANI / Chicken TIKKA BIRYANI
-            .................................................................
+            ..............
             13.75 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -46,7 +46,7 @@ const MenuBiriani = () => {
           <br />
           <h1 className="  font-bold text-white text-xl">
             POLLO BIRYANI / CHICKEN BIRYANI
-            .......................................................................................
+            .....................................
             13.50 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -58,7 +58,7 @@ const MenuBiriani = () => {
           <br />
           <h1 className="  font-bold text-white text-xl">
             CORDERO BIRYANI / LAMB BIRYANI
-            ........................................................................................
+            .....................................
             14.95 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -71,7 +71,7 @@ const MenuBiriani = () => {
 
           <h1 className="  font-bold text-white text-xl">
             TERNERA BIRYANI / BEEF BIRYANI
-            ............................................................................................
+            ........................................
             14.50 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -84,7 +84,7 @@ const MenuBiriani = () => {
 
           <h1 className="  font-bold text-white text-xl">
             LANGOSTINOS BIRYANI / KING PRAWN BIRYANI
-            ..................................................................
+            .................
             15.50 €
           </h1>
           <h1 className="  italic text-amber-400">
@@ -97,7 +97,7 @@ const MenuBiriani = () => {
 
           <h1 className="  font-bold text-white text-xl">
             VERDURA MIXTA BIRYANI / MIXED VEGETABLE BIRYANI
-            ....................................................... 12.95 €
+            ....... 12.95 €
           </h1>
           <h1 className="  italic text-amber-400">
             Verduras variadas cocinado con arroz aromatizado y especias.

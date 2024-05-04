@@ -2,7 +2,7 @@ import React from "react";
 
 const MenuTandoori = () => {
   return (
-    <div className="bg-gradient-to-r from-gray-500 to-gray-800 m-20">
+    <div className="bg-gradient-to-r from-gray-500 to-gray-800 mt-10">
       <h2 className=" text-3xl text-white text-center font-bold mt-10 mb-20">
         ミ★ 𝘛𝘈𝘕𝘋𝘖𝘖𝘙𝘐 𝘌𝘕𝘛𝘙𝘈𝘕𝘛𝘌𝘚 / <br />
         𝘛𝘈𝘕𝘋𝘖𝘖𝘙𝘐 𝘚𝘛𝘈𝘙𝘛𝘌𝘙𝘚 ★彡
@@ -17,7 +17,7 @@ const MenuTandoori = () => {
       <div className="lg:text-center p-5">
         <h1 className="  font-bold text-white text-xl">
           Pollo Tandoori / Chicken Tandoori
-          .............................................................................................................................
+          ......................................................
           6.90 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -29,7 +29,7 @@ const MenuTandoori = () => {
         <br />
         <h1 className="  font-bold text-white text-xl">
           pollo Tikka / Chicken Tikka
-          .........................................................................................................................................
+          ...................................................................
           6.50 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -41,7 +41,7 @@ const MenuTandoori = () => {
         <br />
         <h1 className="  font-bold text-white text-xl">
           Tandoori Mix Starter
-          .....................................................................................................................................................
+          ...............................................................................
           7.50 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -53,7 +53,7 @@ const MenuTandoori = () => {
         <br />
         <h1 className="  font-bold text-white text-xl">
           Cordero Tikka / Lamb Tikka
-          ..........................................................................................................................................
+          ....................................................................
           7.50 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -64,7 +64,7 @@ const MenuTandoori = () => {
 
         <h1 className="  font-bold text-white text-xl">
           Sheek Kebab
-          ...................................................................................................................................................................
+          ...............................................................................................
           7.50 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -75,7 +75,7 @@ const MenuTandoori = () => {
 
         <h1 className="  font-bold text-white text-xl">
           Langostino Tandoori / Tandoori King Prawns
-          .............................................................................................................
+          ........................................
           8.50 €
         </h1>
         <h1 className="  italic text-amber-400">
@@ -86,7 +86,7 @@ const MenuTandoori = () => {
 
         <h1 className="  font-bold text-white text-xl">
           Tandoori Parillada Mixta / Tandoori Mixed Grill
-          ........................................................................................................
+          .......................................
           13.95 €
         </h1>
         <h1 className="  italic text-amber-400">
