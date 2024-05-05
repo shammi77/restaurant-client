@@ -9,63 +9,94 @@ const MenuBreads = () => {
           INDIAN BREADS ★彡
         </h2>
         <div className="lg:text-center p-5">
-          <h1 className="  font-bold text-white text-xl">
-            PLAIN NAN
-            .........................................................................
-            2.75 €
-          </h1>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">PLAIN NAN</h1>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 2.75 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            NAN DE QUESO / CHEESE
-            NAN.........................................
-            3.95 €
-          </h1>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">
+                NAN DE QUESO / CHEESE NAN
+              </h1>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.95 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            NAN DE CEBOLLA / Onion NAN
-            .........................................
-            3.25 €
-          </h1>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">
+                NAN DE CEBOLLA / Onion NAN
+              </h1>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.25 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            NAN DE AJO Y QUESO / CHEESE & GARLIC NAN / 
-            .......... 3.95 €
-          </h1>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">
+                NAN DE AJO Y QUESO / CHEESE & GARLIC NAN
+              </h1>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.95 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            NAN DE AJO / GARLIC NAN
-            ................................................
-            3.50 €
-          </h1>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">
+                NAN DE AJO / GARLIC NAN
+              </h1>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.50 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            PESHWARI NAN
-            ....................................................................
-            3.50 €
-          </h1>
-          <h1 className="  italic text-amber-400">
-            Pan tierno rellenado con coco, almendras y pasas.
-          </h1>
-          <p className=" italic text-white">
-            Leavened bread with fine nuts and sultanas.
-          </p>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">PESHWARI NAN</h1>
+              <h1 className="  italic text-amber-400">
+                Pan tierno rellenado con coco, almendras y pasas.
+              </h1>
+              <p className=" italic text-white">
+                Leavened bread with fine nuts and sultanas.
+              </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.50 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
-            KEEMA NAN
-            ...........................................................................
-            3.95 €
-          </h1>
-          <h1 className="  italic text-amber-400">
-            Pan relleno con carne picada de cordero.
-          </h1>
-          <p className=" italic text-white">
-            Leavened bread stuffed with minced meat.
-          </p>
+          <div className="flex">
+            <div className="flex-1">
+              <h1 className="  font-bold text-white text-xl">KEEMA NAN</h1>
+              <h1 className="  italic text-amber-400">
+                Pan relleno con carne picada de cordero.
+              </h1>
+              <p className=" italic text-white">
+                Leavened bread stuffed with minced meat.
+              </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.95 €</p>
+            </div>
+          </div>
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             PARATHA
-            ..................................................................................
-            3.95 €
+          
           </h1>
           <h1 className="  italic text-amber-400">
             Pan tierno hecho con mantequilla.
@@ -73,11 +104,16 @@ const MenuBreads = () => {
           <p className=" italic text-white">
             Unleavened buttered and backed bread.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 3.95 €</p>
+            </div>
+          </div>        
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             TANDOORI ROTI
-            .......................................................................
-            2.75 €
           </h1>
           <h1 className="  italic text-amber-400">
             Pan integral, fina y crujiente hecha al tandoori.
@@ -85,7 +121,13 @@ const MenuBreads = () => {
           <p className=" italic text-white">
             Crispy Unleavened tandoori bread.
           </p>
-          <br />{" "}
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  2.75 €</p>
+            </div>
+          </div>
+
+          <br />
         </div>
       </div>
     </div>

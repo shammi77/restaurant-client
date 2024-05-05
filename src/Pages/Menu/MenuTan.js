@@ -17,10 +17,11 @@ const MenuTan = () => {
         </h1>
         <br />
         <div className="lg:text-center p-5">
-          <h1 className="  font-bold text-white text-xl">
+
+        <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             MASALA GRIL
-            ............................................................................
-            17.50 €
           </h1>
           <h1 className="  italic text-amber-400">
             Incluye: pollo tandoori, pollo tikka, sheek kebab, langotinos
@@ -30,11 +31,18 @@ const MenuTan = () => {
             Include: Chicken tandoori,chicken tikka, lamb tikka, sheek kebab,
             tandoori king prawns.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 17.50 €</p>
+            </div>
+          </div>
+         
+          
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             POLLO TANDOORI / CHICKEN TANDOORI
-            ..............................
-            13.50 €
           </h1>
           <h1 className="  italic text-amber-400">
             Muslo y alas de pollo marinado hechas al tandoori.
@@ -42,11 +50,19 @@ const MenuTan = () => {
           <p className=" italic text-white">
             Chicken leg and breast grill in tandoori.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  13.50 €</p>
+            </div>
+          </div>
+          
           <br />
-          <h1 className="  font-bold text-white text-xl">
+
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             POLLO TIKKA / CHICKEN TIKKA
-            ...............................................
-            12.75 €
+        
           </h1>
           <h1 className="  italic text-amber-400">
             Pinchitos de pollo sin hueso.
@@ -54,11 +70,17 @@ const MenuTan = () => {
           <p className=" italic text-white">
             Pieces of chicken made on tandoori.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  12.75 €</p>
+            </div>
+          </div>
+         
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             POLLO SHASLIK / CHICKEN SHASLIK
-            ........................................
-            12.90 €
           </h1>
           <h1 className="  italic text-amber-400">
             Pollo tikka, pimento verde, rojo y cebollas hechas al tandoori.
@@ -66,34 +88,52 @@ const MenuTan = () => {
           <p className=" italic text-white">
             Pieces of chicken, red pepper, green pepper made on tandoori.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  12.90 €</p>
+            </div>
+          </div>
+          
           <br />
-
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             CORDERO TIKKA / LAMB TIKKA
-            ..................................................
-            14.50 €
+    
           </h1>
           <h1 className="  italic text-amber-400">
             Trozos de carne de cordero hechos al tandoori.
           </h1>
           <p className=" italic text-white">Pieces of lamb made on tandoori.</p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  14.50 €</p>
+            </div>
+          </div>
+          
           <br />
-
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             SHEEK KEBAB
-            ..................................................................................
-            14.50 €
+          
           </h1>
           <h1 className="  italic text-amber-400">
             Carne picada hechos en tandoori.
           </h1>
           <p className=" italic text-white">Minced meat made on tandoori.</p>
-          <br />
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  14.50 €</p>
+            </div>
+          </div>
 
-          <h1 className="  font-bold text-white text-xl">
+          
+          <br />
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             CORDERO SHASLIK / LAMB SHASLIK
-            .............................................
-            14.75 €
           </h1>
           <h1 className="  italic text-amber-400">
             Coredero tikka, pimento verdo, rojo y cebollas hechas al tandoori.
@@ -102,25 +142,46 @@ const MenuTan = () => {
             Pieces of lamb, red peppers, green peppers and onion made on
             tandoori.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  14.75 €</p>
+            </div>
+          </div>
+
+          
           <br />
-          <h1 className="  font-bold text-white text-xl">
+
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             LANGOSTINO TANDOORI / KING PRAWNS
-            ....................................
-            15.50 €
           </h1>
           <h1 className="  italic text-amber-400">
             langotinos pelados hechos al tandoori.
           </h1>
           <p className=" italic text-white">King prawns made on tandoori.</p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  15.50 €</p>
+            </div>
+          </div>
+         
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             LUBINA AL TANDOORI / TANDOORI SEA BASS
-            ................................ 16.50 €
           </h1>
           <h1 className="  italic text-amber-400">
             Lubina hechas al tandoori.
           </h1>
           <p className=" italic text-white">Sea bass made on tandoori.</p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl">  16.50 €</p>
+            </div>
+          </div>
+
           <br />
         </div>
       </div>

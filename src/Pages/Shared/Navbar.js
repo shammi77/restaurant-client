@@ -55,7 +55,7 @@ const Navbar = () => {
             </div>
           </div>
         </div>
-        <div className="mt-5 navbar-center hidden lg:flex bg-secondary">
+        <div className="mt-5 navbar-center hidden lg:flex bg-neutral">
           <ul className="menu menu-horizontal px-1 ">
             {menuItems}
           </ul>

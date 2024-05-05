@@ -69,10 +69,11 @@ const MenuRec = () => {
         <br />
         <br />
         <div className="lg:text-center p-5">
-          <h1 className="  font-bold text-white text-xl">
+
+        <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             MANCHURI
-            ......................................................................
-            15.90 €
           </h1>
           <h1 className="  italic text-amber-400">
             Pollo rebozado preparado con pimientos, cebolla, salsa de soja,
@@ -82,11 +83,18 @@ const MenuRec = () => {
             Chicken prepared with peppers, onions, soya sauce, ketchup. Medium
             hot.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 15.90 €</p>
+            </div>
+          </div>
+
+         
           <br />
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             NORTH INDIAN GARLIC CHILI CHICKEN
-            .......................
-            14.95 €
           </h1>
           <h1 className="  italic text-amber-400">
             Pollo cocinado con ajo fresco, guindillas y especias especiales de
@@ -96,12 +104,17 @@ const MenuRec = () => {
             Chicken cooked with fresh garlic, chilies, chefs special spices.
             Very spicy.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 14.95 €</p>
+            </div>
+          </div>
+          
           <br />
-
-          <h1 className="  font-bold text-white text-xl">
+          <div className="flex">
+            <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
             REZALA
-            .............................................................................
-            15.50 €
           </h1>
           <h1 className="  italic text-amber-400">
             Pollo tikka hechos con pimientos, cebolla y especias especiales de
@@ -110,6 +123,13 @@ const MenuRec = () => {
           <p className=" italic text-white">
             Sliced of chicken tikka cooked in chefs special spices. Medium hot.
           </p>
+            </div>
+            <div className="flex-1">
+              <p className=" font-bold text-white text-xl"> 15.50 €</p>
+            </div>
+          </div>
+
+          
           <br />
         </div>
       </div>

@@ -9,92 +9,130 @@ const MenuTandoori = () => {
       </h2>
       <h1 className=" p-4 lg:text-center italic text-amber-400">
         Todos los platos tikka y tandoori estan marinados con una mezcla de
-        especias y cocidos en el Tandoori (horno indio de barro). / All tikka
+        especias y cocidos en el Tandoori (horno indio de barro). /<br/> All tikka
         and tandoori dishes are marinated with a special blend of herbs and
         spices and cooked in Tandoori.
       </h1>
       <br />
       <div className="lg:text-center p-5">
-        <h1 className="  font-bold text-white text-xl">
-          Pollo Tandoori / Chicken Tandoori
-          ......................................................
-          6.90 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Muslo o ala de pollo con hueso hecho al tandoori.
-        </h1>
-        <p className=" italic text-white">
-          Chicken leg or breast grill in tandoori.
-        </p>
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Pollo Tandoori / Chicken Tandoori
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Muslo o ala de pollo con hueso hecho al tandoori.
+            </h1>
+            <p className=" italic text-white">
+              Chicken leg or breast grill in tandoori.
+            </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 6.90 €</p>
+          </div>
+        </div>
+
         <br />
-        <h1 className="  font-bold text-white text-xl">
-          pollo Tikka / Chicken Tikka
-          ...................................................................
-          6.50 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Pinchitos de pollo sin hueso.
-        </h1>
-        <p className=" italic text-white">
-          Pieces of chicken made on tandoori.
-        </p>
-        <br />
-        <h1 className="  font-bold text-white text-xl">
-          Tandoori Mix Starter
-          ...............................................................................
-          7.50 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Pollo tikka, cordero tikka y cordero kebab.
-        </h1>
-        <p className=" italic text-white">
-          Chicken tikka, lamb tikka and sheek kebab.
-        </p>
-        <br />
-        <h1 className="  font-bold text-white text-xl">
-          Cordero Tikka / Lamb Tikka
-          ....................................................................
-          7.50 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Carne picada especiado hechas en tandoori.
-        </h1>
-        <p className=" italic text-white">Minced meat made on tandoori.</p>
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Pollo Tikka / Chicken Tikka
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Pinchitos de pollo sin hueso.
+            </h1>
+            <p className=" italic text-white">
+              Pieces of chicken made on tandoori.
+            </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 6.50 €</p>
+          </div>
+        </div>
+
         <br />
 
-        <h1 className="  font-bold text-white text-xl">
-          Sheek Kebab
-          ...............................................................................................
-          7.50 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Carne picada especiado hechas en tandoori.
-        </h1>
-        <p className=" italic text-white">Minced meat made on tandoori.</p>
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Tandoori Mix Starter
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Pollo tikka, cordero tikka y cordero kebab.
+            </h1>
+            <p className=" italic text-white">
+              Chicken tikka, lamb tikka and sheek kebab.
+            </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 7.50 €</p>
+          </div>
+        </div>
+
+        <br />
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Cordero Tikka / Lamb Tikka
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Carne picada especiado hechas en tandoori.
+            </h1>
+            <p className=" italic text-white">Minced meat made on tandoori.</p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 7.50 €</p>
+          </div>
+        </div>
+
+        <br />
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">Sheek Kebab</h1>
+            <h1 className="  italic text-amber-400">
+              Carne picada especiado hechas en tandoori.
+            </h1>
+            <p className=" italic text-white">Minced meat made on tandoori.</p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 7.50 €</p>
+          </div>
+        </div>
+
+        <br />
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Langostino Tandoori / Tandoori King Prawns
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Langostinos pelados hechas con tandoori.
+            </h1>
+            <p className=" italic text-white">King Prawns made on tandoori.</p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 8.50 €</p>
+          </div>
+        </div>
         <br />
 
-        <h1 className="  font-bold text-white text-xl">
-          Langostino Tandoori / Tandoori King Prawns
-          ........................................
-          8.50 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Langostinos pelados hechas con tandoori.
-        </h1>
-        <p className=" italic text-white">King Prawns made on tandoori.</p>
-        <br />
+        <div className="flex">
+          <div className="flex-1">
+            <h1 className="  font-bold text-white text-xl">
+              Tandoori Parillada Mixta / Tandoori Mixed Grill
+            </h1>
+            <h1 className="  italic text-amber-400">
+              Inchuye: pollo tandoori, pollo tikka, lamb tikka, sheek kebab.
+            </h1>
+            <p className=" italic text-white">
+              Include: chicken tandoori, chicken tikka, lamb tikka, sheek kebab.
+            </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 13.95 €</p>
+          </div>
+        </div>
 
-        <h1 className="  font-bold text-white text-xl">
-          Tandoori Parillada Mixta / Tandoori Mixed Grill
-          .......................................
-          13.95 €
-        </h1>
-        <h1 className="  italic text-amber-400">
-          Inchuye: pollo tandoori, pollo tikka, lamb tikka, sheek kebab.
-        </h1>
-        <p className=" italic text-white">
-          Include: chicken tandoori, chicken tikka, lamb tikka, sheek kebab.
-        </p>
         <br />
       </div>
     </div>

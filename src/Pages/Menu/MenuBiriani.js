@@ -19,10 +19,12 @@ const MenuBiriani = () => {
         </h1>
         <br />
         <div className="lg:text-center p-5">
+
+        <div className="flex">
+          <div className="flex-1">
           <h1 className="  font-bold text-white text-xl">
             MASALA MIX BIRYANI
-            ..........................................................
-            16.95 €
+            
           </h1>
           <h1 className="  italic text-amber-400">
             Arroz aromatizada y especias combinado con pollo, cordero y
@@ -31,11 +33,19 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Chicken, lamb & king prawns mix with rice and spices.
           </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 16.95 €</p>
+          </div>
+        </div>
+         
           <br />
+
+          <div className="flex">
+          <div className="flex-1">
           <h1 className="  font-bold text-white text-xl">
             POLLO TIKKA BIRYANI / Chicken TIKKA BIRYANI
-            ..............
-            13.75 €
+            
           </h1>
           <h1 className="  italic text-amber-400">
             Trozos de pollo tikka cocinado con arroz aromatizado y especias.
@@ -43,11 +53,19 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Pieces of chicken tikka mixed with flavored rice and spices.
           </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 13.75 €</p>
+          </div>
+        </div>
+         
           <br />
+
+          <div className="flex">
+          <div className="flex-1">
           <h1 className="  font-bold text-white text-xl">
             POLLO BIRYANI / CHICKEN BIRYANI
-            .....................................
-            13.50 €
+           
           </h1>
           <h1 className="  italic text-amber-400">
             Trozos de pollo cocinado con arroz aromatizado y especias.
@@ -55,11 +73,19 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Pieces of chicken mixed with flavored rice and spices.
           </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 13.50 €</p>
+          </div>
+        </div>
+         
           <br />
+
+          <div className="flex">
+          <div className="flex-1">
           <h1 className="  font-bold text-white text-xl">
             CORDERO BIRYANI / LAMB BIRYANI
-            .....................................
-            14.95 €
+           
           </h1>
           <h1 className="  italic text-amber-400">
             Trozos de cordero cocinado con arroz aromatizado y especias.
@@ -67,12 +93,19 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Pieces of lamb mixed with flavored rice and spices.
           </p>
-          <br />
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 14.95 €</p>
+          </div>
+        </div>
 
+          <br />
+          <div className="flex">
+          <div className="flex-1">
+         
           <h1 className="  font-bold text-white text-xl">
             TERNERA BIRYANI / BEEF BIRYANI
-            ........................................
-            14.50 €
+            
           </h1>
           <h1 className="  italic text-amber-400">
             Trozos de ternera cocinados con arroz aromatizado y especias.
@@ -80,12 +113,18 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Pieces of beef mixed with flavored rice and spices.
           </p>
-          <br />
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 14.50 €</p>
+          </div>
+        </div>
 
+          <br />
+          <div className="flex">
+          <div className="flex-1">
           <h1 className="  font-bold text-white text-xl">
             LANGOSTINOS BIRYANI / KING PRAWN BIRYANI
-            .................
-            15.50 €
+            
           </h1>
           <h1 className="  italic text-amber-400">
             Langostinos cocinados con arroz aromatizado y especias.
@@ -93,11 +132,21 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             King prawns mixed with flavored rice and spices.
           </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 15.50 €</p>
+          </div>
+        </div>
+
+          
           <br />
 
+          <div className="flex">
+          <div className="flex-1">
+            
           <h1 className="  font-bold text-white text-xl">
             VERDURA MIXTA BIRYANI / MIXED VEGETABLE BIRYANI
-            ....... 12.95 €
+            
           </h1>
           <h1 className="  italic text-amber-400">
             Verduras variadas cocinado con arroz aromatizado y especias.
@@ -105,6 +154,12 @@ const MenuBiriani = () => {
           <p className=" italic text-white">
             Vegetables mixed with flavored rice and spices.
           </p>
+          </div>
+          <div className="flex-1">
+            <p className=" font-bold text-white text-xl"> 12.95 €</p>
+          </div>
+        </div>
+
           <br />
         </div>
       </div>
