@@ -9,9 +9,9 @@ const About = () => {
       <br />
       <h1
         className="
-    text-center text-2xl font-bold mt-14"
+    text-center text-3xl font-bold mt-14 text-gray-700 font-mono"
       >
-        𝓞𝓾𝓻 𝓛𝓸𝓬𝓪𝓽𝓲𝓸𝓷
+        Our Location
       </h1>
       <div className="divider"></div>
 
@@ -19,18 +19,18 @@ const About = () => {
         <div class="hero-content flex-col lg:flex-row-reverse">
           <Imap></Imap>
           <div>
-            <h1 className="text-center text-3xl font-bold mt-14">Address</h1>
+            <h1 className="font-mono text-center text-3xl font-bold mt-14 text-gray-700">Address </h1>
             <div className="divider"></div>
             <h1 className="text-center text-xl mt-14">
               Paza es España 19, urbanización los delfines, 07769, ciutadella de
-              Menorca Islas baleares.
+              Menorca, Islas baleares.
             </h1>
             <br />
             <p className="text-center">
               Tel: 971388370/ 646723529 <br />
               E-mail: masalaindianmenorca@gmail.com
             </p>
-            <h1 className="text-center text-3xl font-bold mt-14">
+            <h1 className="font-mono text-center text-3xl font-bold mt-14 text-gray-700">
               Opening Hours
             </h1>
             <div className="divider"></div>
