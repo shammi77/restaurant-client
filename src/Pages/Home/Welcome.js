@@ -1,12 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import filehero from '../../assets/images/filehero.jpg'
 
 const Welcome = () => {
   return (
     <div className="m-8">
       <div className="hero bg-accent">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGZvb2R8ZW58MHx8MHx8fDA%3D" className="max-w-m rounded-lg shadow-2xl" alt=""/>
+    <img src={filehero} className="max-w-m rounded-lg shadow-2xl" alt=""/>
     <div>
     <h1 className="font-mono text-3xl text-gray-200 font-bold mt-20">
               Welcome to <br /> Masala Indian Reataurant
